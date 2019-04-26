@@ -12,7 +12,7 @@
 
 Группа 3.2
 
-Ссылка на Trello: 
+[Ссылка на Trello](https://trello.com/b/gSTMakbh/%D0%B1%D0%BE%D1%82-%D0%BC%D0%B5%D1%81%D1%81%D0%B5%D0%BD%D0%B4%D0%B6%D0%B5%D1%80) 
 
 https://trello.com/b/gSTMakbh/%D0%B1%D0%BE%D1%82-%D0%BC%D0%B5%D1%81%D1%81%D0%B5%D0%BD%D0%B4%D0%B6%D0%B5%D1%80
 
