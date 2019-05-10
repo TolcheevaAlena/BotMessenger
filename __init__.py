@@ -1,6 +1,9 @@
 import telebot
 
 VSU_bot = telebot.TeleBot('716129192:AAHlKIXNx7Y8JiQF_c5hevXMx1e7j6wTClo')
+
+
+
 keyboard1 = telebot.types.ReplyKeyboardMarkup()
 keyboard1.row('Подписаться на рассылку', 'Выбрать вопрос из шаблона', 'Получить развернутый ответ на вопрос')
    
