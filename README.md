@@ -27,7 +27,7 @@
 
 [RealTimeBoard](https://realtimeboard.com/app/board/o9J_kxmfw5E=/) 
 
-[Скачать демо-видео](https://github.com/TolcheevaAlena/BotMessenger/blob/master/video_2019-06-04_01-55-19.mp4)
+[Скачать демо-видео](https://drive.google.com/open?id=1uCWVJhPIFVQJn8mTkhDPMw8S8ZgTaZ3A)
 
 [Презентация Telegram Bot](https://github.com/TolcheevaAlena/BotMessenger/blob/master/Презентация%20Telegram%20Bot.pdf)
 
