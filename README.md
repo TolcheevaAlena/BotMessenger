@@ -28,4 +28,4 @@
 [Демо-видео](https://github.com/TolcheevaAlena/BotMessenger/blob/master/video_2019-06-04_01-55-19.mp4)
 
 Ссылка на код
-https://github.com/TolcheevaAlena/BotMessenger/blob/master/__init__.py
+https://github.com/TolcheevaAlena/BotMessenger/blob/master/bot.py
