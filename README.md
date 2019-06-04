@@ -27,6 +27,6 @@
 
 [RealTimeBoard](https://realtimeboard.com/app/board/o9J_kxmfw5E=/) 
 
-[Демо-видео](https://drive.google.com/drive/my-drive)
+[Скачать демо-видео](https://drive.google.com/drive/my-drive)
 
 [Код](https://github.com/TolcheevaAlena/BotMessenger/blob/master/bot.py)
