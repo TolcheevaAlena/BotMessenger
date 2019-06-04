@@ -11,7 +11,7 @@
 
 - ответы на вопросы по шаблонам (наиболее часто задаваемые)
 
-- овозможность задать свои вопросы
+- возможность задать свои вопросы
 
 - рассылку уведомлений о новостях ВГУ
 
@@ -19,7 +19,7 @@
 
 [Курсовая_работа](https://github.com/TolcheevaAlena/BotMessenger/blob/master/Курсовая%20работа.pdf)
 
-[Техническое задание](https://github.com/TolcheevaAlena/BotMessenger/blob/master/Техническое%20задание.docx)
+[Техническое задание](https://github.com/TolcheevaAlena/BotMessenger/blob/master/Техническое%20задание.pdf)
 
 [Отчет по команде (+диаграмма Ганта)](https://github.com/TolcheevaAlena/BotMessenger/blob/master/Отчет%20по%20команде.pdf)
 
